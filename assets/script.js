@@ -20,3 +20,8 @@ function selectTopic() {
     console.log('oops try again!');
   }
 }
+
+console.log('topics i learned through prework:');
+listTopics();
+console.log('which topic should we study first?');
+selectTopic();
